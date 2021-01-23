@@ -1,4 +1,4 @@
-:mailbox: #Contact page
+:mailbox: **Contact page 
 
 minimalist contact page, OneHalf style
 
